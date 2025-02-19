@@ -2,6 +2,8 @@
 
 This Mac Automator workflow makes it super easy to convert PDF files to JPG images. Give it a try and keep your files safe!
 
+Only works for single-page PDFs!
+
 
 ![Add a quick action](thumbnail.png)
 
