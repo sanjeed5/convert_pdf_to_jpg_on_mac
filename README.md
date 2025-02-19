@@ -2,6 +2,8 @@
 
 This Mac Automator workflow makes it super easy to convert PDF files to JPG images. 
 
+[![Watch the video](thumbnail.png)](video.mp4)
+
 ## How To Install
 
 1. **Download and Unzip:**  
