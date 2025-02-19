@@ -2,7 +2,7 @@
 
 This Mac Automator workflow makes it super easy to convert PDF files to JPG images. 
 
-## How It Works
+## How To Install
 
 1. **Download and Unzip:**  
    - Download the folder from [here](https://github.com/sanjeed5/convert_pdf_to_jpg_on_mac/archive/refs/heads/main.zip) or click the green button "Code" and then "Download ZIP".
